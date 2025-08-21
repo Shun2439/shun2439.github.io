@@ -1,0 +1,5 @@
+# shun2439.github.io
+
+## note
+
+- [NIP-05認証バッジの付け方](https://scrapbox.io/nostr/NIP-05%E8%AA%8D%E8%A8%BC%E3%83%90%E3%83%83%E3%82%B8%E3%81%AE%E4%BB%98%E3%81%91%E6%96%B9)
